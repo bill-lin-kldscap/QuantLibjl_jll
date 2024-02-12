@@ -1,0 +1,17 @@
+[[QuantLibjl]]
+arch = "x86_64"
+git-tree-sha1 = "882f3eb01a770afcbf1b64dac08829d8e84b2e85"
+libc = "glibc"
+os = "linux"
+
+    [[QuantLibjl.download]]
+    sha256 = "1a79bc45996180c165cf4ba5417874de5a3a8a5f82a2b9061a991b2dc7eb7cf5"
+    url = "https://github.com/bill-lin-kldscap/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.0+0/QuantLibjl.v1.0.0.x86_64-linux-gnu.tar.gz"
+[[QuantLibjl]]
+arch = "x86_64"
+git-tree-sha1 = "3eab4cb9a017a7a1961c140a8ccfcd6eca1352a5"
+os = "windows"
+
+    [[QuantLibjl.download]]
+    sha256 = "9056669fb614e9d41dbcf0f15e6dbce51e2a52d068c593693a1dbd66d7bd53c5"
+    url = "https://github.com/bill-lin-kldscap/QuantLibjl_jll/releases/download/QuantLibjl-v1.0.0+0/QuantLibjl.v1.0.0.x86_64-w64-mingw32.tar.gz"
